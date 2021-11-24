@@ -1,4 +1,4 @@
-Creating a graph of a trading pair using C# in .NET Interactive.
+Creating a graph of a trading pair using C# in [.NET Interactive](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode).
 
 Example:
 
